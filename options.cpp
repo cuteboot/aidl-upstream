@@ -21,7 +21,7 @@
 
 #include "logging.h"
 #include "os.h"
-
+#include <string.h>
 using std::cerr;
 using std::endl;
 using std::string;
